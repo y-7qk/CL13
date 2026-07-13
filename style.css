@@ -1,0 +1,54 @@
+body{
+	position: relative;
+}
+img{
+	position: absolute;
+}
+.butterfly{
+	position: absolute;
+	width: 100px;
+}
+
+#bt0{
+	left:135px;
+	top:370px;
+}
+
+#bt1{
+	left:360px;
+	top:340px;
+}
+
+#bt2{
+	left:580px;
+	top:420px;
+}
+
+#f0{
+	left:690px;
+	top:260px;
+}
+.foo{
+	width: 30px;
+}
+
+#f1{
+	left:360px;
+	top:270px;
+}
+
+#f2{
+	left:360px;
+	top:190px;
+}
+
+#f3{
+	left:470px;
+	top:280px;
+}
+
+#f4{
+	left:570px;
+	top:220px;
+}
+
